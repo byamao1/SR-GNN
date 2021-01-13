@@ -7,8 +7,8 @@
 
 from __future__ import division
 import numpy as np
-from model import *
-from utils import build_graph, Data, split_validation
+from tensorflow_code.model import *
+from tensorflow_code.utils import build_graph, Data, split_validation
 import pickle
 import argparse
 import datetime
